@@ -16,12 +16,9 @@ The entirety of this project can be completed using Jupyter Notebook.
 
 ## Packages used
 The following packages (libraries) need to be installed. You can install these packages via conda or pip. 
--pandas
 
+-pandas                   
 -NumPy
-
--requests
-
--tweepy
-
+-requests 
+-tweepy 
 -json
